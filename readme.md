@@ -21,4 +21,4 @@ A modern task management application built using HTML, CSS and JavaScript.
 
 ## Live Demo
 
-Coming Soon
+https://taskmanager-shivam.vercel.app
